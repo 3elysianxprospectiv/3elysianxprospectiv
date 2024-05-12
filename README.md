@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jayne 🤓
+- 👋 Hi, I’m JL 🤓
 - 👀 I’m interested in 🎨🎸📸⚽🎥📚📈🍟🌿☕🌍
-- 🌱 I’m currently learning </>, CSS, Java,JavaScript & 🐍
+- 🌱 I’m currently learning </>, CSS,JavaScript & 🐍
 - 😻 I love animals,music,nature,art & Lego 🟥🟨
 
 <!---
